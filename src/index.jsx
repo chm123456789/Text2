@@ -25,7 +25,7 @@ const Header = (props) => {
 
   return (
     <div>
-      <Containter1>
+      <Container1>
         <Nav
           className="justify-content-center"
           style={{ border: 'soild black' }}

@@ -14,7 +14,7 @@ module.exports = function(env,argv){
     },
     devSever:
     {
-contentBase: './dist',
+        contentBase: './dist',
     },
   plugins:[
       new HtmlWebpackPlugin(
